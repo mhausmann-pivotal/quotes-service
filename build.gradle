@@ -95,7 +95,7 @@ dependencies {
 		compile "org.springframework.boot:spring-boot-starter-actuator"
 		compile "org.springframework.cloud:spring-cloud-starter-sleuth"
 		//compile "org.springframework.cloud:spring-cloud-starter-zipkin"
-		compile "org.springframework.cloud:spring-cloud-sleuth-zipkin-stream"
+		// compile "org.springframework.cloud:spring-cloud-sleuth-zipkin-stream"
 		compile "org.springframework.cloud:spring-cloud-starter-stream-rabbit"
 
 
